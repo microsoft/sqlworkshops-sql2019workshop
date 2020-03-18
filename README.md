@@ -125,6 +125,11 @@ This workshop was built and designed for a computer or VM to run SQL Server with
 
 > **NOTE**: *If you run this lab from a virtual machine in Azure running Windows, and you want to use Module 6, you will need to enable nested virtualization. Read more at https://docs.microsoft.com/en-us/azure/virtual-machines/windows/nested-virtualization*
 
+Microsoft and any contributors grant you a license to the Microsoft documentation and other content
+in this repository under the Creative Commons Attribution 4.0 International Public License,
+see the LICENSE file, and grant you a license to any code in the repository under the MIT License, see the
+LICENSE-CODE file. All license files are found in the LICENSES directory.
+
 <p style="border-bottom: 1px solid lightgrey;"></p>
 
 <h2><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/sqlworkshops/blob/master/graphics/education1.png?raw=true"><b>     Workshop Details</b></h2>
