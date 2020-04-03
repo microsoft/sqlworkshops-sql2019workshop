@@ -87,10 +87,10 @@ In addition, SQL Server Polybase allows you to connect to Azure SQL, Azure SQL D
 
 To complete this workshop you will need the following:
 
-- Clone the workshop using git from https://github.com/microsoft/sqlworkshops.git. All the scripts and files in the labs are found in the **sql2019workshop** folder.
+- Clone the workshop using git from https://github.com/microsoft/sqlworkshops-sql2019workshop.git. All the scripts and files in the labs are found in the **sql2019workshop** folder.
 - On Windows systems, you should use the following git syntax
 
-    `git clone --config core.autocrlf=false https://github.com/microsoft/sqlworkshops.git`
+    `git clone --config core.autocrlf=false https://github.com/microsoft/sqlworkshops-sql2019workshop.git`
 
 - Install the software as listed in the **Setup** section below
 
