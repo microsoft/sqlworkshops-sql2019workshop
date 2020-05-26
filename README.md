@@ -68,7 +68,7 @@ In addition, SQL Server Polybase allows you to connect to Azure SQL, Azure SQL D
   <tr><th style="background-color: #1b20a1; color: white;">Technology</th> <th style="background-color: #1b20a1; color: white;">Description</th></tr>
 
   <tr><td><i>SQL Server</i></td><td>Database Platform produced by Microsoft</td></tr>
-  <tr><td><i>SQL Server 2019</i></td><td>Most current release of SQL Server currently in preview</td></tr>
+  <tr><td><i>SQL Server 2019</i></td><td>Most current release of SQL Server</td></tr>
   <tr><td><i>Intelligent Query Processing</i></td><td>Automated query processing enhancements in SQL Server 2019</td></tr>
  <tr><td><i>Query Store</i></td><td>Built-in query performance execution statistics stored in a user database</td></tr>
  <tr><td><i>Data Classification</i></td><td>Built-in data information classification with SQL Server with auditing</td></tr>
