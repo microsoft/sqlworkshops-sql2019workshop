@@ -13,7 +13,7 @@ Welcome to this Microsoft solutions workshop on *SQL Server 2019 Workshop*.
 
 In this course you will learn how to solve modern data challenges with SQL Server 2019 using a hands-on lab approach.
 
-This course is intended to be taken as a self-paced or instructor-led workshop. A supplement slide deck is available for this course in the [slides](https://github.com/microsoft/sqlworkshops/tree/master/sql2019lab/slides) folder.
+This course is intended to be taken as a self-paced or instructor-led workshop. A supplement slide deck is available for this course in the [slides](https://github.com/microsoft/sqlworkshops-sql2019workshop/tree/master/sql2019workshop/slides) folder.
 
 This course is designed for data professionals who have a basic working knowledge of SQL Server and the T-SQL language.
 
