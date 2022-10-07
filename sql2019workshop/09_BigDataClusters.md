@@ -8,6 +8,8 @@
 
 <h2><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/sqlworkshops/blob/master/graphics/textbubble.png?raw=true"><b>     Big Data Clusters</b></h2>
 
+>**IMPORTANT**: Big Data Clusters has been retired. Please read the following for more information: https://learn.microsoft.com/lifecycle/announcements/sql-server-2019-big-data-clusters-retirement.
+
 SQL Server Big Data Clusters provide a solution for Intelligence over all of your Data through Data Virtualization with Polybase, built-in HDFS and Spark, and a end-to-end Machine Learning Platform.
 
 ![BDC Intelligence](./graphics/bdc_intelligence_over_your_data.png)

@@ -35,6 +35,8 @@ When you complete this course, you will be able to:
 - Learn how to use **Big Data Clusters** to gain intelligence over all your data integrating SQL Server, Hadoop, and Spark.
 - Learn more about **additional capabilities** of SQL Server 2019, **Migration** tools, and **Database Compatibility**.
 
+>**IMPORTANT**: Big Data Clusters has been retired. Please read the following for more information: https://learn.microsoft.com/lifecycle/announcements/sql-server-2019-big-data-clusters-retirement.
+
 As part of taking this lab you are also learning about new capabilities in **Azure SQL**.
 
 The following features in this lab also exist in Azure SQL:
